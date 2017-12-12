@@ -1,0 +1,10 @@
+/Users/carloscarvallo/dev/playground/csharp-playground/test/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/Users/carloscarvallo/dev/playground/csharp-playground/test/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/Users/carloscarvallo/dev/playground/csharp-playground/test/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/Users/carloscarvallo/dev/playground/csharp-playground/test/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/Users/carloscarvallo/dev/playground/csharp-playground/test/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/Users/carloscarvallo/dev/playground/csharp-playground/test/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/Users/carloscarvallo/dev/playground/csharp-playground/test/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/Users/carloscarvallo/dev/playground/csharp-playground/test/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/Users/carloscarvallo/dev/playground/csharp-playground/test/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/Users/carloscarvallo/dev/playground/csharp-playground/test/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
