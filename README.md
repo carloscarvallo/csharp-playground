@@ -2,7 +2,7 @@
 
 ## Hello World!
 
-```
+``` csharp
 using System;
 
 namespace myApp
