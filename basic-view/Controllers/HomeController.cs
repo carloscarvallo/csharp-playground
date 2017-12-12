@@ -7,8 +7,9 @@ namespace CharacterSheetApp.Controllers
     {
         public IActionResult Index()
         {   
-            var name = "Shield"
-            return View("Index", name);
+            var model = new CharacterSheetApp.Models.Character();
+            model.Name = "Hux";
+            return View(model);
         }
     }
 }
