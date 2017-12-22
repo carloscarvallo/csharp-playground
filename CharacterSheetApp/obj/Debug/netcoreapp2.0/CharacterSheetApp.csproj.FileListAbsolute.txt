@@ -1,0 +1,10 @@
+/Users/carloscarvallo/dev/playground/csharp-playground/CharacterSheetApp/bin/Debug/netcoreapp2.0/CharacterSheetApp.deps.json
+/Users/carloscarvallo/dev/playground/csharp-playground/CharacterSheetApp/bin/Debug/netcoreapp2.0/CharacterSheetApp.runtimeconfig.json
+/Users/carloscarvallo/dev/playground/csharp-playground/CharacterSheetApp/bin/Debug/netcoreapp2.0/CharacterSheetApp.runtimeconfig.dev.json
+/Users/carloscarvallo/dev/playground/csharp-playground/CharacterSheetApp/bin/Debug/netcoreapp2.0/CharacterSheetApp.dll
+/Users/carloscarvallo/dev/playground/csharp-playground/CharacterSheetApp/bin/Debug/netcoreapp2.0/CharacterSheetApp.pdb
+/Users/carloscarvallo/dev/playground/csharp-playground/CharacterSheetApp/obj/Debug/netcoreapp2.0/CharacterSheetApp.csproj.CoreCompileInputs.cache
+/Users/carloscarvallo/dev/playground/csharp-playground/CharacterSheetApp/obj/Debug/netcoreapp2.0/CharacterSheetApp.AssemblyInfoInputs.cache
+/Users/carloscarvallo/dev/playground/csharp-playground/CharacterSheetApp/obj/Debug/netcoreapp2.0/CharacterSheetApp.AssemblyInfo.cs
+/Users/carloscarvallo/dev/playground/csharp-playground/CharacterSheetApp/obj/Debug/netcoreapp2.0/CharacterSheetApp.dll
+/Users/carloscarvallo/dev/playground/csharp-playground/CharacterSheetApp/obj/Debug/netcoreapp2.0/CharacterSheetApp.pdb

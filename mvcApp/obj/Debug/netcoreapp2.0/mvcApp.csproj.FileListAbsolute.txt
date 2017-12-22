@@ -1,0 +1,10 @@
+/Users/carloscarvallo/dev/playground/csharp-playground/mvcApp/bin/Debug/netcoreapp2.0/mvcApp.deps.json
+/Users/carloscarvallo/dev/playground/csharp-playground/mvcApp/bin/Debug/netcoreapp2.0/mvcApp.runtimeconfig.json
+/Users/carloscarvallo/dev/playground/csharp-playground/mvcApp/bin/Debug/netcoreapp2.0/mvcApp.runtimeconfig.dev.json
+/Users/carloscarvallo/dev/playground/csharp-playground/mvcApp/bin/Debug/netcoreapp2.0/mvcApp.dll
+/Users/carloscarvallo/dev/playground/csharp-playground/mvcApp/bin/Debug/netcoreapp2.0/mvcApp.pdb
+/Users/carloscarvallo/dev/playground/csharp-playground/mvcApp/obj/Debug/netcoreapp2.0/mvcApp.csproj.CoreCompileInputs.cache
+/Users/carloscarvallo/dev/playground/csharp-playground/mvcApp/obj/Debug/netcoreapp2.0/mvcApp.AssemblyInfoInputs.cache
+/Users/carloscarvallo/dev/playground/csharp-playground/mvcApp/obj/Debug/netcoreapp2.0/mvcApp.AssemblyInfo.cs
+/Users/carloscarvallo/dev/playground/csharp-playground/mvcApp/obj/Debug/netcoreapp2.0/mvcApp.dll
+/Users/carloscarvallo/dev/playground/csharp-playground/mvcApp/obj/Debug/netcoreapp2.0/mvcApp.pdb

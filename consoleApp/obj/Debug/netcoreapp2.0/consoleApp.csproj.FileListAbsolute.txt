@@ -1,0 +1,10 @@
+/Users/carloscarvallo/dev/playground/csharp-playground/consoleApp/bin/Debug/netcoreapp2.0/consoleApp.deps.json
+/Users/carloscarvallo/dev/playground/csharp-playground/consoleApp/bin/Debug/netcoreapp2.0/consoleApp.runtimeconfig.json
+/Users/carloscarvallo/dev/playground/csharp-playground/consoleApp/bin/Debug/netcoreapp2.0/consoleApp.runtimeconfig.dev.json
+/Users/carloscarvallo/dev/playground/csharp-playground/consoleApp/bin/Debug/netcoreapp2.0/consoleApp.dll
+/Users/carloscarvallo/dev/playground/csharp-playground/consoleApp/bin/Debug/netcoreapp2.0/consoleApp.pdb
+/Users/carloscarvallo/dev/playground/csharp-playground/consoleApp/obj/Debug/netcoreapp2.0/consoleApp.csproj.CoreCompileInputs.cache
+/Users/carloscarvallo/dev/playground/csharp-playground/consoleApp/obj/Debug/netcoreapp2.0/consoleApp.AssemblyInfoInputs.cache
+/Users/carloscarvallo/dev/playground/csharp-playground/consoleApp/obj/Debug/netcoreapp2.0/consoleApp.AssemblyInfo.cs
+/Users/carloscarvallo/dev/playground/csharp-playground/consoleApp/obj/Debug/netcoreapp2.0/consoleApp.dll
+/Users/carloscarvallo/dev/playground/csharp-playground/consoleApp/obj/Debug/netcoreapp2.0/consoleApp.pdb
