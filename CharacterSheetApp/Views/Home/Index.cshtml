@@ -1,4 +1,4 @@
-﻿@model CharacterSheetApp.Models.Character
+﻿@model List<CharacterSheetApp.Models.Character>
 <h2>Characters:</h2>
 <!-- We specify a Controller to let our form know which controller to find the action in. -->
 <form asp-action="Create" asp-controller="Home">
@@ -11,6 +11,9 @@
 <h2>Characters:</h2>
 <div>
   <ul>
-    <li>@Model.Name</li>
+        @foreach (var item in Model)
+        {
+            <li>@item.Name</li>
+        }
   </ul>
 </div>
