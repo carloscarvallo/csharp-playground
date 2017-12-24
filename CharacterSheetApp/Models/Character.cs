@@ -12,7 +12,6 @@ namespace CharacterSheetApp.Models
             character.Name = CharacterName;
             GlobalVariables.Characters.Add(character);
         }
-        // The type or namespace name 'List<>' could not be found (are you missing a using directive or an assembly reference?) [CharacterSheetApp] (?)
         public static List<Character> GetAll()
         {
             return GlobalVariables.Characters;
